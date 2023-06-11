@@ -6,6 +6,16 @@
   background-color: darkgrey;
 }
  
+h1 {
+font-size:14px;
+}
+.navi {
+font-size:14px;
+}
+.navi=period {
+font-size:12px;
+}
+
 .main {
   padding-top: 50px;
   overflow: auto;
